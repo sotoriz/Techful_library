@@ -42,6 +42,8 @@ footer {
 CSS for Home Page:
 ```  
   body {
+    margin: 0;
+    padding: 0;
     background-color: rgb(20, 40, 60);
     color: rgb(240, 248, 255);
     font-family: "Helvetica", "Arial", sans-serif;

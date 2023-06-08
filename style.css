@@ -40,11 +40,16 @@ footer {
 ```
 
 CSS for Home Page:
-```
-body {
-  margin: 0;
-  padding: 0;
-  font-family: Arial, sans-serif;
+```  
+  body {
+    background-color: rgb(20, 40, 60);
+    color: rgb(240, 248, 255);
+    font-family: "Helvetica", "Arial", sans-serif;
+    font-size: 1.3em;
+}
+
+a {
+    color: rgb(255, 111, 111);
 }
 
 header {
@@ -100,5 +105,16 @@ footer {
   background-color: #f2f2f2;
   padding: 20px;
   text-align: center;
+}
+
+body {
+    background-color: rgb(20, 40, 60);
+    color: rgb(240, 248, 255);
+    font-family: "Helvetica", "Arial", sans-serif;
+    font-size: 1.3em;
+}
+
+a {
+    color: rgb(255, 111, 111);
 }
 ``` 

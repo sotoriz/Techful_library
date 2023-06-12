@@ -1,3 +1,4 @@
+<py-script>
 #Library Management System
 
 #Importing Libraries
@@ -117,3 +118,4 @@ try:
 
 except Exception as e:
     print("Something went wrong. Please check your input")
+    </py-script>

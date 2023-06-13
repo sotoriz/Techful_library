@@ -43,9 +43,7 @@ This is a software which can efficiently manage your library. This app keeps tra
      alt="Home Screen"
      style="float: left; margin-right: 10px;"
      width="200"/> <img src="images/capture6.jpg"
-     alt="Home Screen"
-     style="float: left; margin-right: 10px;"
-     width="200"/>
+
 
      ## NOTE:
 This project is subject to change by the developer and is still in development
@@ -79,6 +77,10 @@ Contributions are always welcome! Please read the `contribution guidelines` firs
 ###  Related projects
 
 Library Management System – Python Project by Bartleby.com
+
+### Author
+
+Sotonye Orifama<sotorisfx@gmail.com>
 
 ### Licensing
 

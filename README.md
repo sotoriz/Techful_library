@@ -36,14 +36,16 @@ This is a software which can efficiently manage your library. This app keeps tra
      width="200"/> <img src="images/capture3.jpg"
      alt="Home Screen"
      style="float: left; margin-right: 10px;"
-     width="200"/> <img src="images/iapture4.jpg"
+     width="200"/> <img src="images/capture4.jpg"
      alt="Home Screen"
      style="float: left; margin-right: 10px;"
      width="200"/> <img src="images/capture5.jpg"
      alt="Home Screen"
      style="float: left; margin-right: 10px;"
      width="200"/> <img src="images/capture6.jpg"
-
+     alt="Home Screen"
+     style="float: left; margin-right: 10px;"
+     width="200"/>
 
      ## NOTE:
 This project is subject to change by the developer and is still in development

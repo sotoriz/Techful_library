@@ -29,6 +29,10 @@ This is a software which can efficiently manage your library. This app keeps tra
 
 I choose to use tkinter to build the project because i want a graphical user intetface(GUI) experience
 
+### Badge
+
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama)
+
 ###  Screenshots
 
 <img src="images/capture1.jpg"
@@ -79,7 +83,6 @@ Running this is as simple as it gets. Follow this steps
 3. For Homepage run 
 > python3 main.py
 
-
 ###  Contributing
 
 Contributions are always welcome! Please read the `contribution guidelines` first.
@@ -87,10 +90,12 @@ Contributions are always welcome! Please read the `contribution guidelines` firs
 ###  Related projects
 
 Library Management System – Python Project by Bartleby.com
+Library Management System – Python Project by
+DataFlair
 
 ### Author
 
-Sotonye Orifama <sotorisfx@gmail.com>
+Sotonye Orifama < sotorisfx@gmail.com >
 
 ### Licensing
 

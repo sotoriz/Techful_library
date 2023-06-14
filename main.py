@@ -7,22 +7,19 @@ from DeleteBook import *
 from ViewBooks import *
 from IssueBook import *
 from ReturnBook import *
-from tkhtmlview import HTMLLabel
+#from tkhtmlview import HTMLLabel
 
 # Add your own database name and password here to reflect in the code
 mypass = "root"
 mydatabase= "db"
 
-con = pymysql.connect(host="localhost",user="root",password=mypass ,database=mydatabase)
-cur = conn.cursor()
-connection.close()
+con = pymysql.connect(host="localhost",user="root",password=mypass,database=mydatabase)
+cur = con.cursor()
 
 root = Tk()
 root.title("Library")
 root.minsize(width=400,height=400)
 root.geometry("600x500")
-my_label = HTMLLabel(root, html="<h1>Hello World!</h1>")
-my_label.pack(pady=20)
 
 # Take n greater than 0.25 and less than 5
 same=True

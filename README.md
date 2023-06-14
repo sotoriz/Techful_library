@@ -23,7 +23,11 @@ This is a software which can efficiently manage your library. This app keeps tra
 * Delete any book
 * View all the books in the library
 * Issue book to student
-* Accept books Return by student 
+* Accept books Return by student
+
+### Specifications
+
+I choose to use tkinter to build the project because i want a graphical user intetface(GUI) experience
 
 ###  Screenshots
 
@@ -57,6 +61,7 @@ The following packages are required or should be installed for the project.
 	Pillow - pip install pillow
 	PyMySql - pip install pymysql
 
+
 ### Description of Tables
 
    Create Tables
@@ -66,11 +71,14 @@ create table books(bid varchar(20) primary key, title varchar(30), author varcha
 
 create table books_issued(bid varchar(20) primary key, issuedto varchar(30));
 
-### How to run this
+### Usage
 
 Running this is as simple as it gets. Follow this steps
 1. Clone this repository
 2. Double click on `main.py`
+3. For Homepage run 
+> python3 main.py
+
 
 ###  Contributing
 
@@ -82,7 +90,7 @@ Library Management System – Python Project by Bartleby.com
 
 ### Author
 
-Sotonye Orifama<sotorisfx@gmail.com>
+Sotonye Orifama <sotorisfx@gmail.com>
 
 ### Licensing
 
